@@ -1,4 +1,1 @@
-**Epp Client
-
-*Credits
-> littlephild
+** Epp Client
